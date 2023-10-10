@@ -1,0 +1,30 @@
+#root{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    flex: 1;
+}
+
+h1{
+    text-align: center;
+    color: midnightblue;
+}
+li{
+    text-align: center;
+}
+body{
+    margin: 0;
+}
+
+footer, header {
+    background-color: lightblue;
+    font-size: 20px;
+    text-align: center;
+}
+
+nav{
+    background-color: aqua;
+}
